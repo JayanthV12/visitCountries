@@ -1,0 +1,22 @@
+.item-container {
+  background-color: #334155;
+  height: 40px;
+  margin-bottom: 12px;
+  border-radius: 6px;
+  border-width: 2px;
+  padding-left: 12px;
+
+  border-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.visit-button {
+  background-color: blue;
+  color: white;
+  border-radius: 12px;
+  border-width: 0px;
+  margin-right: 20px;
+  margin-top: 12px;
+  height: 24px;
+}
